@@ -1,0 +1,1 @@
+This file is made for testing Git and GitHub functionality. First of its kind. 
